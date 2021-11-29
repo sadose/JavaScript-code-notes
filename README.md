@@ -1,2 +1,9 @@
-# JavaScript-code-notes
-JavaScript代码笔记
+# JavaScript代码笔记
+
+这部分内容是我在学习 JavaScript 的过程中进行的代码练习或记录的代码笔记。
+
+## JavaScript高级程序设计
+
+此部分是我在阅读红宝书的同时对照书中的示例代码自己进行的练习，所有的练习都有对应的学习笔记。
+
+- 06 面向对象
