@@ -167,7 +167,7 @@ function fun(first=f(), second=s(), third=second*2, t=this) {
 }
 let obj = { fun };
 console.log(obj.fun());
-// f this : Window
+// f this : window
 // second
 // fun this : obj
 // 1 2 4
@@ -283,14 +283,14 @@ let obj = {
         ];
     }
 };
-outer(); // Window - 在全局定义，全局调用
+outer(); // window - 在全局定义，全局调用
 let [fun, afun, innerfun] = obj.inner();
 // obj - obj.inner()的this
-// Window - 在全局定义，内部调用
-// Window - 在内部定义，内部调用
-fun(); // Window - （返回的匿名函数）
+// window - 在全局定义，内部调用
+// window - 在内部定义，内部调用
+fun(); // window - （返回的匿名函数）
 afun(); // obj - （返回的箭头函数）
-innerfun(); // Window - 在内部定义，全局调用
+innerfun(); // window - 在内部定义，全局调用
 
 
 // 2 闭包模式的私有属性
