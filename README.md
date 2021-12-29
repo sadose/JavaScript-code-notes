@@ -33,7 +33,7 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](https://github.com/sadose/JavaScript-code-notes/blob/main/1%20JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/07%20%E4%BB%A3%E7%90%86%E4%B8%8E%E5%8F%8D%E5%B0%84.js)</sub>
 - 08 函数&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E7%AC%94%E8%AE%B0&color=orange)]()</sub>
-<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub>
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](https://github.com/sadose/JavaScript-code-notes/blob/main/1%20JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/08%20%E5%87%BD%E6%95%B0.js)</sub>
 - 09 异步编程&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E7%AC%94%E8%AE%B0&color=orange)]()</sub>
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](https://github.com/sadose/JavaScript-code-notes/blob/main/1%20JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/09%20%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.js)</sub>
