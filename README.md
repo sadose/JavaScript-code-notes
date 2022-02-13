@@ -43,13 +43,36 @@
 - 11 客户端检测&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E7%AC%94%E8%AE%B0&color=orange)](https://sadose.github.io/2022/02/02/js011/)</sub>
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](1%20JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/11%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%A3%80%E6%B5%8B.js)</sub>
-<!-- - 12 DOM基础&nbsp;
+- 12 DOM基础&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E7%AC%94%E8%AE%B0&color=orange)]()</sub>
-<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub> -->
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](1%20JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/12%20DOM%E5%9F%BA%E7%A1%80.js)</sub>
 <!-- - 13 DOM扩展&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E7%AC%94%E8%AE%B0&color=orange)]()</sub>
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub> -->
 
 <!-- &nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E7%AC%94%E8%AE%B0&color=orange)]()</sub>
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub> -->
+
+## 手撕JavaScript
+
+这部分内容是深入学习JavaScript的API时，手动实现简单的JavaScript API的练习。
+
+## 手撕万物
+
+这一部分励志把能手撕的东西尽量都手撕一遍，深入理解JavaScript及前端涉及的各方各面的内容。包括设计模式等。
+
+### 设计模式相关
+
+<!-- - 字节青训营课程笔记：前端设计模式应用&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E7%AC%94%E8%AE%B0&color=orange)]()</sub>
+    - 01 单例模式实现请求缓存&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub>
+    - 02 发布订阅模式实现上线提醒&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub>
+    - 03 代理模式实现用户上线订阅&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub>
+    - 04 使用迭代器模式模拟DOM树&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub>
+    - 05 组合模式实现文件结构&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub> -->
