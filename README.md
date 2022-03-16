@@ -69,6 +69,8 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/01%20%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BA%8B%E4%BB%B6%E5%B7%A5%E5%85%B7.js)</sub>
 - 02 尾递归（斐波那契数列）&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/02%20%E5%B0%BE%E9%80%92%E5%BD%92%EF%BC%88%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%EF%BC%89.js)</sub>
+- 03 节流防抖&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/03%20%E8%8A%82%E6%B5%81%E9%98%B2%E6%8A%96.js)</sub>
 
 <!-- <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub> -->
 
@@ -97,5 +99,7 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](3%20%E6%89%8B%E6%92%95%E4%B8%87%E7%89%A9/2%20JavaScript%E5%BA%94%E7%94%A8/01%20LRU%E7%BC%93%E5%AD%98%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95.js)</sub>
 - 02 对象的key驼峰式转下划线&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](3%20%E6%89%8B%E6%92%95%E4%B8%87%E7%89%A9/2%20JavaScript%E5%BA%94%E7%94%A8/02%20%E5%AF%B9%E8%B1%A1%E7%9A%84key%E9%A9%BC%E5%B3%B0%E5%BC%8F%E8%BD%AC%E4%B8%8B%E5%88%92%E7%BA%BF.js)</sub>
+- 03 千分位数值分隔&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](3%20%E6%89%8B%E6%92%95%E4%B8%87%E7%89%A9/2%20JavaScript%E5%BA%94%E7%94%A8/03%20%E5%8D%83%E5%88%86%E4%BD%8D%E6%95%B0%E5%80%BC%E5%88%86%E9%9A%94.js)</sub>
 
 <!-- <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub> -->
