@@ -56,7 +56,7 @@ function numberToChinese(num) {
         return result;
     };
     const len = num.length;
-    if (len < 8) return sign + part8(num);
+    if (len <= 8) return sign + part8(num);
     else {
         const front = num.substring(0, len - Math.floor(len / 8) * 8);
         const back = num.substring(len - Math.floor(len / 8) * 8);
@@ -77,6 +77,7 @@ console.log(numberToChinese("0")); // 零
 console.log(numberToChinese("100")); // 一百
 console.log(numberToChinese("10005")); // 一万零五
 console.log(numberToChinese("10500")); // 一万零五百
+console.log(numberToChinese("88888888")); // 八千八百八十八万八千八百八十八
 console.log(numberToChinese("123456789")); // 一亿二千三百四十五万六千七百八十九
 console.log(numberToChinese("123123456789")); // 一千二百三十一亿二千三百四十五万六千七百八十九
 console.log(numberToChinese("123123123123456789")); // 十二亿亿三千一百二十三万一千二百三十一亿二千三百四十五万六千七百八十九
