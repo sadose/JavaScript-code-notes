@@ -6,6 +6,16 @@
 
 
 function numberToChinese(num) {
+    if (typeof num === "number") num = num.toString();
+    else if (typeof num === "string") {
+        // 检查格式
+        for (let i = 0; i < num.length; ++i) {
+            if (num[i].charCodeAt() > "9".charCodeAt() || num[i].charCodeAt() < "0".charCodeAt()) {
+                if (i !== 0) throw new TypeError();
+                else if (num[i] !== "-") throw new TypeError();
+            }
+        }
+    } else throw new TypeError();
     let sign = "";
     if (num[0] === "-") {
         num = num.substring(1);
@@ -46,7 +56,7 @@ function numberToChinese(num) {
         return result;
     };
     const len = num.length;
-    if (len < 8) return sign+part8(num);
+    if (len < 8) return sign + part8(num);
     else {
         const front = num.substring(0, len - Math.floor(len / 8) * 8);
         const back = num.substring(len - Math.floor(len / 8) * 8);
@@ -56,10 +66,12 @@ function numberToChinese(num) {
             result = part8(back.substring(i, i + 8), front.length) + unit + result;
             unit += "亿";
         }
-        return sign+part8(front) + unit + result;
+        return sign + part8(front) + unit + result;
     }
 }
 
+
+// 测试
 
 console.log(numberToChinese("0")); // 零
 console.log(numberToChinese("100")); // 一百
@@ -70,3 +82,8 @@ console.log(numberToChinese("123123456789")); // 一千二百三十一亿二千�
 console.log(numberToChinese("123123123123456789")); // 十二亿亿三千一百二十三万一千二百三十一亿二千三百四十五万六千七百八十九
 console.log(numberToChinese("-1")); // 负一
 console.log(numberToChinese("-10500")); // 负一万零五百
+console.log(numberToChinese(10500)); // 一万零五百
+
+// console.log(numberToChinese("10-00")); // TypeError
+// console.log(numberToChinese("*1")); // TypeError
+// console.log(numberToChinese({})); // TypeError
