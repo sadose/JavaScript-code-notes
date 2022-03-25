@@ -57,10 +57,6 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](1%20JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/15%20%E4%BA%8B%E4%BB%B6.js)</sub>
 
 
-<!-- &nbsp;
-<sub>[![](https://img.shields.io/static/v1?label=&message=%E7%AC%94%E8%AE%B0&color=orange)]()</sub>
-<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub> -->
-
 ## 手撕JavaScript
 
 这部分内容是深入学习JavaScript的API时，手动实现简单的JavaScript API以及拓展的JavaScript特性的练习。
@@ -71,8 +67,21 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/02%20%E5%B0%BE%E9%80%92%E5%BD%92%EF%BC%88%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%EF%BC%89.js)</sub>
 - 03 节流防抖&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/03%20%E8%8A%82%E6%B5%81%E9%98%B2%E6%8A%96.js)</sub>
+- 06 Promise周边&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/06%20Promise%E5%91%A8%E8%BE%B9.js)</sub>
+- 07 手写函数方法&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/07%20%E6%89%8B%E5%86%99%E5%87%BD%E6%95%B0%E6%96%B9%E6%B3%95.js)</sub>
+- 09 实现delay函数&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/09%20%E5%AE%9E%E7%8E%B0delay%E5%87%BD%E6%95%B0.js)</sub>
+- 10 解析URL&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/10%20%E8%A7%A3%E6%9E%90URL.js)</sub>
+- 11 柯里化的add函数&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/11%20%E6%9F%AF%E9%87%8C%E5%8C%96%E7%9A%84add%E5%87%BD%E6%95%B0.js)</sub>
+- 12 调用计数器（支持重置）&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/12%20%E8%B0%83%E7%94%A8%E8%AE%A1%E6%95%B0%E5%99%A8%EF%BC%88%E6%94%AF%E6%8C%81%E9%87%8D%E7%BD%AE%EF%BC%89.js)</sub>
+- 13 手写数组方法&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/13%20%E6%89%8B%E5%86%99%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95.js)</sub>
 
-<!-- <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub> -->
 
 ## 手撕万物
 
@@ -92,6 +101,8 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](3%20%E6%89%8B%E6%92%95%E4%B8%87%E7%89%A9/1%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%9B%B8%E5%85%B3/04%20%E4%BD%BF%E7%94%A8%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F%E6%A8%A1%E6%8B%9FDOM%E6%A0%91.ts)</sub>
     - 05 组合模式实现文件结构&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](3%20%E6%89%8B%E6%92%95%E4%B8%87%E7%89%A9/1%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%9B%B8%E5%85%B3/05%20%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F%E6%A8%A1%E6%8B%9F%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.ts)</sub>
+    - 06 EventBus&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](3%20%E6%89%8B%E6%92%95%E4%B8%87%E7%89%A9/1%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%9B%B8%E5%85%B3/06%20EventBus.js)</sub>
 
 ### JavaScript应用
 
@@ -101,5 +112,7 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](3%20%E6%89%8B%E6%92%95%E4%B8%87%E7%89%A9/2%20JavaScript%E5%BA%94%E7%94%A8/02%20%E5%AF%B9%E8%B1%A1%E7%9A%84key%E9%A9%BC%E5%B3%B0%E5%BC%8F%E8%BD%AC%E4%B8%8B%E5%88%92%E7%BA%BF.js)</sub>
 - 03 千分位数值分隔&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](3%20%E6%89%8B%E6%92%95%E4%B8%87%E7%89%A9/2%20JavaScript%E5%BA%94%E7%94%A8/03%20%E5%8D%83%E5%88%86%E4%BD%8D%E6%95%B0%E5%80%BC%E5%88%86%E9%9A%94.js)</sub>
-
-<!-- <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)]()</sub> -->
+- 04 数据格式处理合集&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](3%20%E6%89%8B%E6%92%95%E4%B8%87%E7%89%A9/2%20JavaScript%E5%BA%94%E7%94%A8/04%20%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F%E5%A4%84%E7%90%86%E5%90%88%E9%9B%86.js)</sub>
+- 05 阿拉伯数字转汉字数字&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](3%20%E6%89%8B%E6%92%95%E4%B8%87%E7%89%A9/2%20JavaScript%E5%BA%94%E7%94%A8/05%20%E9%98%BF%E6%8B%89%E4%BC%AF%E6%95%B0%E5%AD%97%E8%BD%AC%E6%B1%89%E5%AD%97%E6%95%B0%E5%AD%97.js)</sub>
