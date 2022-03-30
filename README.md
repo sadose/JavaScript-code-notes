@@ -81,6 +81,20 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/12%20%E8%B0%83%E7%94%A8%E8%AE%A1%E6%95%B0%E5%99%A8%EF%BC%88%E6%94%AF%E6%8C%81%E9%87%8D%E7%BD%AE%EF%BC%89.js)</sub>
 - 13 手写数组方法&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/13%20%E6%89%8B%E5%86%99%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95.js)</sub>
+- 14 实现内存函数缓存函数调用结果&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/14%20%E5%AE%9E%E7%8E%B0%E5%86%85%E5%AD%98%E5%87%BD%E6%95%B0%E7%BC%93%E5%AD%98%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E7%BB%93%E6%9E%9C.js)</sub>
+- 15 手写new操作&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/15%20%E6%89%8B%E5%86%99new%E6%93%8D%E4%BD%9C.js)</sub>
+- 16 实现sleep函数&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/16%20%E5%AE%9E%E7%8E%B0sleep%E5%87%BD%E6%95%B0.js)</sub>
+- 17 手写isNaN函数&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/17%20%E6%89%8B%E5%86%99isNaN%E5%87%BD%E6%95%B0.js)</sub>
+- 19 读写object路径上的值&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/19%20%E8%AF%BB%E5%86%99object%E8%B7%AF%E5%BE%84%E4%B8%8A%E7%9A%84%E5%80%BC.js)</sub>
+- 20 手写字符串方法&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/20%20%E6%89%8B%E5%86%99%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%96%B9%E6%B3%95.js)</sub>
+- 21 数组扁平化&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/21%20%E6%95%B0%E7%BB%84%E6%89%81%E5%B9%B3%E5%8C%96.js)</sub>
 
 
 ## 手撕万物
