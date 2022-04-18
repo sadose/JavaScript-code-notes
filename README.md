@@ -67,6 +67,8 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/02%20%E5%B0%BE%E9%80%92%E5%BD%92%EF%BC%88%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%EF%BC%89.js)</sub>
 - 03 节流防抖&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/03%20%E8%8A%82%E6%B5%81%E9%98%B2%E6%8A%96.js)</sub>
+- 05 手写Promise方法合集&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/05%20%E6%89%8B%E5%86%99Promise%E6%96%B9%E6%B3%95%E5%90%88%E9%9B%86.js)</sub>
 - 06 Promise周边&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/06%20Promise%E5%91%A8%E8%BE%B9.js)</sub>
 - 07 手写函数方法&nbsp;
@@ -95,6 +97,24 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/20%20%E6%89%8B%E5%86%99%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%96%B9%E6%B3%95.js)</sub>
 - 21 数组扁平化&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/21%20%E6%95%B0%E7%BB%84%E6%89%81%E5%B9%B3%E5%8C%96.js)</sub>
+- 22 数组去重&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/22%20%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D.js)</sub>
+- 23 手写instanceof&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/23%20%E6%89%8B%E5%86%99instanceof.js)</sub>
+- 24 手写Object静态方法&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/24%20%E6%89%8B%E5%86%99Object%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95.js)</sub>
+- 25 对象扁平化&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/25%20%E5%AF%B9%E8%B1%A1%E6%89%81%E5%B9%B3%E5%8C%96.js)</sub>
+- 26 使用Promise封装Ajax请求&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/26%20%E4%BD%BF%E7%94%A8Promise%E5%B0%81%E8%A3%85Ajax%E8%AF%B7%E6%B1%82.js)</sub>
+- 27 事件委托&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/27%20%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98.js)</sub>
+- 28 移除空属性&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/28%20%E7%A7%BB%E9%99%A4%E7%A9%BA%E5%B1%9E%E6%80%A7.js)</sub>
+- 29 实现compose函数&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/29%20%E5%AE%9E%E7%8E%B0compose%E5%87%BD%E6%95%B0.js)</sub>
+- 30 遍历DOM树&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/30%20%E9%81%8D%E5%8E%86DOM%E6%A0%91.js)</sub>
 
 
 ## 手撕万物
