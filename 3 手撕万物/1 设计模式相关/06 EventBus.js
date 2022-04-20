@@ -20,12 +20,33 @@ const EventBus = {
             this.subs[event].forEach(fn => fn(...args));
         }
     },
+    once(event, fn) {
+        const callback = (...args) => {
+            fn(...args);
+            this.off(event, callback);
+        };
+        this.on(event, callback);
+    },
+    off(event, fn) {
+        if(this.subs[event]) {
+            const index = this.subs[event].indexOf(fn);
+            if(index!==-1) this.subs[event].splice(index, 1);
+        }
+    },
 };
 
 
 // 测试
 
 EventBus.on("hello", (name) => console.log("hello", name));
-EventBus.on("你好", (name) => console.log("你好", name));
 EventBus.emit("hello", "dasen"); // hello dasen
+
+const fn = (name) => console.log("你好", name);
+EventBus.on("你好", fn);
 EventBus.emit("你好", "大森"); // 你好 大森
+EventBus.off("你好", fn)
+EventBus.emit("你好", "大森"); // (无事发生)
+
+EventBus.once("你好", fn);
+EventBus.emit("你好", "大森"); // 你好 大森
+EventBus.emit("你好", "大森"); // (无事发生)
