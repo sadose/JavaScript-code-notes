@@ -115,6 +115,18 @@
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/29%20%E5%AE%9E%E7%8E%B0compose%E5%87%BD%E6%95%B0.js)</sub>
 - 30 遍历DOM树&nbsp;
 <sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/30%20%E9%81%8D%E5%8E%86DOM%E6%A0%91.js)</sub>
+- 31 实现repeat包装函数&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/31%20%E5%AE%9E%E7%8E%B0repeat%E5%8C%85%E8%A3%85%E5%87%BD%E6%95%B0.js)</sub>
+- 32 实现每隔一定时间间隔轮询数据&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/32%20%E5%AE%9E%E7%8E%B0%E6%AF%8F%E9%9A%94%E4%B8%80%E5%AE%9A%E6%97%B6%E9%97%B4%E9%97%B4%E9%9A%94%E8%BD%AE%E8%AF%A2%E6%95%B0%E6%8D%AE.js)</sub>
+- 33 实现Jsonp跨域请求&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/33%20%E5%AE%9E%E7%8E%B0Jsonp%E8%B7%A8%E5%9F%9F%E8%AF%B7%E6%B1%82.js)</sub>
+- 34 对象展开&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/34%20%E5%AF%B9%E8%B1%A1%E5%B1%95%E5%BC%80.js)</sub>
+- 35 使用ES5语法实现const变量声明&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/35%20%E4%BD%BF%E7%94%A8ES5%E8%AF%AD%E6%B3%95%E5%AE%9E%E7%8E%B0const%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E.js)</sub>
+- 36 实现通用函数柯里化&nbsp;
+<sub>[![](https://img.shields.io/static/v1?label=&message=%E4%BB%A3%E7%A0%81&color=blue)](2%20%E6%89%8B%E6%92%95JavaScript/36%20%E5%AE%9E%E7%8E%B0%E9%80%9A%E7%94%A8%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96.js)</sub>
 
 
 ## 手撕万物
