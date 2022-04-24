@@ -181,3 +181,26 @@ Promise.retry = function (fn, options) {
         run();
     });
 };
+
+
+// 5 手写 Promise.any()
+
+Promise.myAny = function (promises) {
+    return new Promise((resolve, reject) => {
+        promises = Array.isArray(promises) ? promises : Array.from(promises);
+        let count = promises.length;
+        let errs = []; // 用于收集所有 reject 
+        promises.forEach((promise) => {
+            // 对每个 promise 绑定：如果解决了，则合成的 promise 解决，如果失败了，计数减一，全部失败返回失败结果
+            promise.then(value => {
+                resolve(value);
+            }, err => {
+                count--;
+                errs.push(err);
+                if (count === 0) {
+                    reject(new AggregateError(errs));
+                }
+            });
+        });
+    });
+};
